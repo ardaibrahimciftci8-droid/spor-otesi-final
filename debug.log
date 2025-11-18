@@ -1,0 +1,3 @@
+[1118/014131.008:ERROR:third_party\crashpad\crashpad\util\win\registration_protocol_win.cc:108] CreateFile: Sistem belirtilen dosyayı bulamıyor. (0x2)
+[1118/223550.057:ERROR:third_party\crashpad\crashpad\util\win\registration_protocol_win.cc:108] CreateFile: Sistem belirtilen dosyayı bulamıyor. (0x2)
+[1118/224944.551:ERROR:third_party\crashpad\crashpad\util\win\registration_protocol_win.cc:108] CreateFile: Sistem belirtilen dosyayı bulamıyor. (0x2)
